@@ -1,0 +1,18 @@
+SOLID:
+
+SRP - Single Responsability Principle:
+    uma classe deve ter somente uma razão para mudar, uma classe deve possuir apenas uma responsabilidade
+
+OCP - Open Close Principle:
+    entidades de software devem estar abertas para extensão, mas fechadas para modificação
+
+LSP - Liskov Substitution Principle:
+    você deve poder substituir uma subclasse por uma classe base
+
+ISP - Interface Segregation Principle:
+    dividir interfaces em interfaces menores
+
+DIP - Dependency Inversion Principle :
+	dependa de abstrações e não de implementações;
+	módulos de alto nível não devem depender de módulos de baixo nível, ambos devem depender de abstrações;
+	abstrações não devem depender de detalhes(classes concretas), detalhes(classes concretas) devem depender de abstrações
