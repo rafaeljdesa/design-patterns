@@ -1,4 +1,4 @@
-package structural.chainofresponsibility;
+package behavioral.chainofresponsibility;
 
 import java.util.HashMap;
 import java.util.Map;

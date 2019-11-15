@@ -1,4 +1,4 @@
-package structural.chainofresponsibility.exercice;
+package behavioral.chainofresponsibility.exercice;
 
 import java.util.ArrayList;
 import java.util.List;
