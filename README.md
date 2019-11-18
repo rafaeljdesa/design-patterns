@@ -28,13 +28,13 @@
 
 ### Criação:
 
-    Builder - Permite a construção de um objeto complexo, podendo criar representações diferentes.
+    __Builder__ - Permite a construção de um objeto complexo, podendo criar representações diferentes
 
-    Singleton - Permite somente uma instância do objeto.
+    __Singleton__ - Permite somente uma instância do objeto
 
-    Factory - Permite criar uma fábrica para criação de objetos em tempo de execução.
+    __Factory__ - Permite criar uma fábrica para criação de objetos em tempo de execução
 
-    Prototype - Permite a criação de um novo objeto a partir de uma cópia de outro objeto.
+    __Prototype__ - Permite a criação de um novo objeto a partir de uma cópia de outro objeto
 
 
 ### Estrutural:
