@@ -12,17 +12,13 @@ class Mail {
 class MailHTML extends Mail implements IMail {
 
     @Override
-    public void send() {
-        /*...*/
-    }
+    public void send() {/*...*/}
 }
 
 class MailText extends Mail implements IMail {
 
     @Override
-    public void send() {
-        /*...*/
-    }
+    public void send() {/*...*/}
 }
 
 class MailService {
@@ -33,7 +29,7 @@ class MailService {
         this.mail = mail;
     }
 
-    public void sendEmail() {
+    public void sendMail() {
         mail.send();
     }
 }

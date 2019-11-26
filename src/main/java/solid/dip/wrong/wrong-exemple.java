@@ -14,5 +14,5 @@ class MailService {
         this.htmlBody = htmlBody;
     }
 
-    public void sendEmail() {/*...*/}
+    public void sendMail() {/*...*/}
 }
