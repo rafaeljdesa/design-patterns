@@ -1,4 +1,4 @@
-package solid;
+package solid.ocp;
 
 import java.util.ArrayList;
 import java.util.List;

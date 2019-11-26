@@ -1,4 +1,4 @@
-package solid;
+package solid.dip;
 
 import org.javatuples.Triplet;
 

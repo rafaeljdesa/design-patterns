@@ -1,4 +1,4 @@
-package solid;
+package solid.srp;
 
 import java.io.*;
 import java.net.URL;

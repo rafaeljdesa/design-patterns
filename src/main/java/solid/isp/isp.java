@@ -1,4 +1,4 @@
-package solid;
+package solid.isp;
 
 class Document {
 

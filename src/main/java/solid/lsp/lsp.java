@@ -1,4 +1,4 @@
-package solid;
+package solid.lsp;
 
 class Rectangle
 {
